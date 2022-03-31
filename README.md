@@ -4,5 +4,4 @@
 
 ## Demo Aplikasi
 
-https://user-images.githubusercontent.com/91062027/161075129-f84ed3fa-dd52-43fa-afb7-6fcc66548e9e.mp4
 
